@@ -1,0 +1,37 @@
+5 graders, 20 students
+4 per grader
+===============================
+ Grader1first Grader1last (4 students) 
+===============================
+1   Jennifer Anderson
+2   David Brown
+3   Ashley Clark
+4   Linda Davis
+===============================
+ Grader2first Grader2last (4 students) 
+===============================
+1   John Doe
+2   Emily Garcia
+3   Matthew Harris
+4   Robert Hernandez
+===============================
+ Grader3first Grader3last (4 students) 
+===============================
+1   Sarah Jackson
+2   Albert Johnson
+3   Daniel Lee
+4   James Martinez
+===============================
+ Grader4first Grader4last (4 students) 
+===============================
+1   Barbara Martinez
+2   Michael Miller
+3   Patricia Rodriguez
+4   Jane Smith
+===============================
+ Grader5first Grader5last (4 students) 
+===============================
+1   Christopher Thomas
+2   Jessica White
+3   Mary Williams
+4   Charles Wilson
